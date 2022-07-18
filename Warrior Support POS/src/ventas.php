@@ -85,11 +85,11 @@ if (empty($existe) && $id_user != 1) {
                 </tbody>
                 <tfoot>
                     <tr class="font-weight-bold">
-                        <td colspan=3>Total Pagar</td>
+                        <td colspan=3>Total a Pagar</td>
                         <td></td>
                     </tr>
                 </tfoot>
-            </table>
+            </table>    
 
         </div>
     </div>
